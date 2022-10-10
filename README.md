@@ -1,2 +1,3 @@
 # Assignment_6
- CS648
+ *Started using javaScript and created simple applications*
+ 
